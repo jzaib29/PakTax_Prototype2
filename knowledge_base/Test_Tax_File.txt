@@ -1,0 +1,31 @@
+1. Introduction 
+This User Manual provides comprehensive guidance for taxpayers and users to navigate and 
+complete the Income Tax Return filing process through the system. It explains the 
+functionality, workflow, and step-by-step procedures for entering, reviewing, calculating, and 
+submitting tax-related information. 
+The purpose of this manual is to ensure that users can efficiently utilize the system features, 
+accurately provide required information, and comply with the updated tax return 
+requirements.  
+2. Objective 
+The objective of this User Manual is to facilitate users in understanding and effectively 
+utilizing the enhanced Income Tax Return (ITR) system. It provides an overview of the updated 
+return filing framework, highlighting the improved method of capturing, organizing, and 
+processing taxpayer information. 
+The updated ITR has been developed with a structured data input framework, where taxpayer 
+information is collected through predefined sections and relevant data fields. The system is 
+designed on a modular approach, allowing different components of the Income Tax Return to 
+be managed through separate but interconnected modules. 
+3. Scope of the Document 
+This document covers the functional usage and user interaction with the updated Income Tax 
+Return (ITR) system. The scope includes: 
+• Understanding the structured data input framework introduced in the updated ITR. 
+• Explaining the modular design of the application and the purpose of each module 
+within the return filing process. 
+• Providing guidance on entering, managing, and reviewing taxpayer information across 
+different sections. 
+• Covering the flow of income reporting, tax computation, wealth declaration, 
+payments, and document attachment. 
+• Describing the available system actions for data management, calculations, and return 
+submission. 
+• Providing users with the necessary information to complete the return using the 
+enhanced features of the application. 

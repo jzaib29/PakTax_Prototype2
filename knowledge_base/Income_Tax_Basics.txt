@@ -1,0 +1,67 @@
+Income Tax Basics
+Before Registration and Filing of your Income Tax Return, it is recommended that one should establish basic understanding regarding these processes. Knowledge of basic concepts would not only ensure that the tasks are performed easily but also in the prescribed manner.
+
+Taxable Income
+Taxable Income means Total Income reduced by donations qualifying straight for deductions and certain deductible allowances.
+
+Total Income
+Total Income is the aggregate of Income chargeable to Tax under each head of Income.
+
+Head of Income
+Under the Income Tax Ordinance, 2001, all Income are broadly divided into following five heads of Income:
+
+Salary;
+Income from property;
+Income from business;
+Capital gains; and
+Income from Other Sources
+Resident
+An individual is Resident for a Tax Year if the individual:
+Is present in Pakistan for a period of, or periods amounting in aggregate to, one hundred and [eighty-three] days or more in the tax year;
+Is present in Pakistan for a period of, or periods amounting in aggregate to, one hundred and twenty days or more in the tax year and, in the four years preceding the tax year, has been in Pakistan for a period of, or periods amounting in aggregate to, three hundred and sixty-five days or more; or
+Is an employee or official of the Federal Government or a Provincial Government posted abroad in the Tax Year.
+An Association of Persons is Resident for a Tax Year if the control and management of its affairs is situated wholly or partly in Pakistan at any time in that year;
+A Company is Resident for a Tax Year if :
+It is incorporated or formed by or under any law in force in Pakistan;
+The control and management of its affairs is situated wholly in Pakistan at any time in the year; or
+It is a Provincial Government or a local Government in Pakistan.
+Non-Resident
+An Association of Persons, a Company and an Individual are Non-Resident for a Tax Year if they are not Resident for that year.
+
+Pakistan source Income
+Is defined in section 101 of the Income Tax Ordinance, 2001, which caters for Incomes under different heads and situations. Some of the common Pakistan source Incomes are as under: -
+
+Salary received or receivable from any employment exercised in Pakistan wherever paid;
+Salary paid by, or on behalf of, the Federal Government, a Provincial Government, or a local Government in Pakistan, wherever the employment is exercised;
+Dividend paid by Resident Company;
+Profit on debt paid by a Resident Person;
+Property or rental Income from the lease of immovable property in Pakistan;
+Pension or annuity paid or payable by a Resident or permanent establishment of a Non-Resident;.
+Foreign source Income
+Is any Income, which is not a Pakistan source Income.
+
+Person
+An Individual;
+A Company or Association of Persons incorporated, formed, organized or established in Pakistan or elsewhere;
+The Federal Government, a foreign government, a political subdivision of a foreign government, or public international organization
+Company
+A Company as defined in the Companies Ordinance, 1984 (XLVII of 1984);
+A body corporate formed by or under any law in force in Pakistan;
+A modaraba;
+A body incorporated by or under the law of a country outside Pakistan relating to incorporation of Companies;
+An amendment has been made through Finance Act, 2013 to enlarge the scope of definition of a Company. Now as per Income Tax Ordinance, 2001 a company includes:
+A co-operative society, a finance society or any other society;
+A non-profit organization;
+A trust, an entity or a body of persons established or constituted by or under any law for the time being in force.
+A foreign association, whether incorporated or not, which the Board has, by general or special order, declared to be a company for the purposes of this Ordinance;
+A Provincial Government;
+A Local Government in Pakistan;
+A Small Company
+Association of Persons
+Includes a firm (the relation between persons who have agreed to share the profits of a business carried on by all or any of them acting for all), a Hindu undivided family, any artificial juridical person and any body of persons formed under a foreign law, but does not include a Company.
+
+Tax Year
+Is a period of twelve months ending on 30th day of June i.e. the financial year and is denoted by the calendar year in which the said date falls. For example, tax year for the period of twelve months from July 01, 2017 to June 30, 2018 shall be denoted by calendar year 2018 and the period of twelve months from July 01, 2018 to June 30, 2019 shall be denoted by calendar year 2019. It is called Normal Tax Year.
+
+Special Tax Year
+Means any period of twelve months and is denoted by the calendar year relevant to the Normal Tax Year in which closing date of the Special Tax Year falls. For example, Tax Year for the period of twelve months from January 01, 2017 to December 31, 2017 shall be denoted by calendar year 2018 and the period of twelve months from October 01, 2017 to September 30, 2018 shall be denoted by calendar year 2019.
